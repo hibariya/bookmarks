@@ -1,6 +1,6 @@
 baseurl = "https://bookmarks.hibariya.org"
 languageCode = "en"
-title = "Bookmarks"
+title = "TL;DR Bookmarks"
 theme = "kiss"
 copyright = "(c) <a href=\"https://hibariya.org/\">Hibariya Lerche</a> 2018"
 # disqusShortname = "shortname"
