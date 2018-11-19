@@ -4,7 +4,7 @@ title = "TL;DR Bookmarks"
 theme = "kiss"
 copyright = "(c) <a href=\"https://hibariya.org/\">Hibariya Lerche</a> 2018"
 # disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-64572851-4"
 # Number of posts per page
 Paginate = 5
 enableRobotsTXT = true
