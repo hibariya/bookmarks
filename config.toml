@@ -15,7 +15,7 @@ customCSS = ["css/custom.css"]
 [params.rss]
 
 includeContent = true # Includes whole content in rss
-authorName = "Hibariya Lerche" # Site author's full name
+authorName = "hibariya" # Site author's full name
 #authorEmail = "ribice@gmail.com"
 
 [params.info]
